@@ -1,0 +1,4 @@
+Tutorial -
+
+
+First of all, Disable Antivirus protection to prevent SynapseX from crashing, errors, false flags, ect. Then just Run the SynapseX.exe and Start exploiting, Please star the project if you enjoy it. Thanks!
